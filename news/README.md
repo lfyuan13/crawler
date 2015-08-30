@@ -2,3 +2,26 @@
 功能将要实现
 （1）抓取最新的综合类新闻
 （2）抓取最新的各类新闻：国际，军事，体育，互联网，娱乐，财经等
+
+
+1、新浪
+新浪的文章节点都有共性：体育
+<head>节点下的
+	<meta name="keywords" content="xx,xx,xx">  表示关键字
+	<meta property="og:type" content="article"> 表示是文章类型
+</head>
+
+<body>下文章：
+	<div class="blkContainerSblk">
+		<h1 id="artibodyTitle"/>
+		<div class="artInfo">
+			<span id="pub_date" />
+			<span id="media_name" />
+		</div>
+		<div class="BSHARE_POP" id="artibody">
+			<p></p>
+		</div>
+	</div>
+</body>
+
+
