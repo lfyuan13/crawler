@@ -25,3 +25,10 @@
 </body>
 
 
+2、百度新闻 
+<div class="bd">
+在<ul><li>里面
+<a href="http://zhanglei.baijia.baidu.com/article/152196" target="_blank" mon="ct=1&amp;a=1&amp;c=internet&amp;pn=1">锤粉：真的猛士敢于在说完相声后直面惨淡的人生</a>
+
+
+
