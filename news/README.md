@@ -32,3 +32,18 @@
 
 
 
+<meta http-equiv="newbaijia" content="newbaijia">
+
+(1)如果是用的铁血网http://bbs.tiexue.net/post2_9425309_1.html
+<div class="main" id="main">
+<h1 class="post_tit">美剧中F-18舰载机大战中巴枭龙战机</h1>
+<p/>
+$('#main p')
+
+
+(2)前沿网http://hot.qianyan001.com/20150830/114476_1.html
+
+
+
+
+
