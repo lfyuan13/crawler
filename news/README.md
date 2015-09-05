@@ -24,6 +24,16 @@
 	</div>
 </body>
 
+编码问题：
+para = {'charset': 'gbk'}
+	charset = mySoup.head.findAll('meta', para)
+	if charset is not None and len(charset)>0:
+		print charset
+		print 'gbk'
+		mySoup = BS(content.decode('gbk'))
+	else:
+		mySoup = BS(content.decode('utf8'))
+		print "utf8"
 
 2、百度新闻 
 <div class="bd">
@@ -42,6 +52,9 @@ $('#main p')
 
 
 (2)前沿网http://hot.qianyan001.com/20150830/114476_1.html
+
+
+
 
 
 
